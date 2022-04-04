@@ -108,7 +108,7 @@ Sidebar
 
 /*CSS BANNER*/
 .banner_main {
-  background: url("/images/tallerFondo.jpg");
+  background: url("images\TallerFondo.jpg");
   background-repeat: no-repeat;
   min-height: 840px;
   background-size: 100% 100%;
